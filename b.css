@@ -1,0 +1,35 @@
+
+h1{
+    text-align: center;
+}
+.a1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.a1 img{
+    margin-left: 20%;
+}
+.a2{
+    margin-left: 60%;
+    margin-top: -20%;
+}
+.a3{
+    font-size:xx-large;
+    margin-top: 20%;
+    margin-left: 20%;
+
+}
+.c1{
+    margin-top: -3%;
+    margin-left: 3%;
+}
+body{
+    background-color: burlywood;
+}
+.a4{
+    font-size: xx-large;
+    margin-left: 20%;
+}
+.c2{
+    margin-top: -4%;
+    margin-left: 4%;
+}
